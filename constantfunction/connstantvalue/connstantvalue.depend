@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1618438343 source:g:\c++\connstantvalue\main.cpp
+	<iostream>
+	<string>
+	<conio.h>
+
